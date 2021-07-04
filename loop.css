@@ -1,0 +1,83 @@
+body{
+    position: frelative;
+}
+.main-image{
+    background-image: url(https://media.pri.org/s3fs-public/styles/story_main/public/images/2019/04/cambodia_rice_farming.jpg?itok=q-4Rpm1a);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 500px;
+}
+.img-farm{
+
+    text-align: center;
+    color:black;
+    background-color: rgb(134, 177, 92) ;
+    opacity: 0.4;
+    font-size: 150%;
+    
+    
+}
+.videokheti{
+    display: flex;
+    flex-direction: row;
+   margin-top: 40px;
+   font-family: 'Times New Roman', Times, serif;
+
+}
+.videokhetii button{
+    align-items: center;
+    padding: 15px;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: lawngreen;
+    border: lightgoldenrodyellow;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.videokhetii{
+    padding: 40px ;
+    border: cornflowerblue;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.videokhetii p{font-size: 20px;
+color: cadetblue;
+font-family: 'Times New Roman', Times, serif;
+}
+textarea{
+	width: 50%;
+	min-height: 100px;
+    padding: 0.625rem;
+    text-align: center;
+
+}
+.homeD{
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    border: 1px solid #ccc;
+    background-color: gray;
+    
+  
+}
+.homeD form{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 15px;
+    font-style: bold;
+}
+.homeD button{
+    
+    padding: 5px;
+  background-color: thistle;
+  color: black;
+}
+
+footer{
+    margin-top: 40px;
+
+    font-family: 'Times New Roman', Times, serif;
+   
+}
